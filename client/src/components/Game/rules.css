@@ -1,0 +1,59 @@
+.rules_container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .rules_content h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2rem;
+  }
+  
+  .rules_content h2 {
+    margin-top: 20px;
+    color: #555;
+    font-size: 1.5rem;
+  }
+  
+  .rules_content p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .rules_content ol,
+  .rules_content ul {
+    margin-left: 20px;
+    line-height: 1.6;
+    text-align: left;
+  }
+  
+  .rules_content strong {
+    color: #000;
+  }
+  .start_game_button{
+    background-color: white;
+    font-weight: bold;
+    font-size: large;
+    animation: blink 1s infinite; 
+  }
+
+  .start_game_button:hover{
+    color: red;
+  }
+
+  @keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+  

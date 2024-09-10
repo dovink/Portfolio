@@ -1,0 +1,45 @@
+.start_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .game_title {
+    font-family: 'Arial', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .subtitle {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .button_container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .rules_button, .game_button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .rules_button:hover, .game_button:hover {
+    background-color: #0056b3;
+  }
+  

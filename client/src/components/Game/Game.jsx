@@ -1,4 +1,4 @@
-import "./game.css";
+import "./Game.css";
 import React, { useCallback, useEffect, useState } from "react";
 import GameEnd from "./GameEnd";
 import { randomWord } from "./Utilities/randomWord";

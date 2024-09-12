@@ -14,7 +14,7 @@ export const ProjectDetails = [
         image: Work1,
         title: "Betting website",
         category: category.Full_Stack,
-        desc: "Ongoing project",
+        desc: "The project that was used to start learning the MERN stack. It was not finished fully:(",
         href: "https://github.com/dovink/Betting-Websitee",
     },
     {

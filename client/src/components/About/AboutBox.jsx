@@ -4,12 +4,12 @@ import "./About.css";
 
 const ABOUT_ITEMS = [
   {
-    title: "3",
+    title: "2",
     subtitle: "Project completed",
     icon: "about__icon icon-fire",
   },
   {
-    title: "1523",
+    title: "97",
     subtitle: "Cup of coffee",
     icon: "about__icon icon-cup",
   },

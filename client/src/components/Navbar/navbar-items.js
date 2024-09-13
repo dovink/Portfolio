@@ -16,10 +16,6 @@ export const sections = [
         icon: "icon-layers",
     },
     {
-        href: "#contact",
-        icon: "icon-bubble",
-    },
-    {
         href: "#game",
         icon: "icon-game-controller",
     }

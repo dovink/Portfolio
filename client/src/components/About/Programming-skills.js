@@ -15,4 +15,8 @@ export const skills = [
     name: "React",
     procentage: "55%",
   },
+  {
+    name: "Express",
+    procentage: "50%",
+  }
 ];

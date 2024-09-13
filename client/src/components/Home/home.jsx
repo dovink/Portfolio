@@ -14,9 +14,6 @@ const Home = () => {
           I am an entry-level full-stack developer
         </span>
         <Socials />
-        <a href="#contact" className="btn">
-          Contact Me!
-        </a>
         <ScrollDown />
       </div>
     </section>
